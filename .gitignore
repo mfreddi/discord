@@ -13,3 +13,4 @@ RELEASE_NOTE*.md
 dist/*.js
 auth.json
 .vscode
+.idea
